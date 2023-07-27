@@ -56,7 +56,7 @@ Checked that new changes and updates still reflected the same initial imagery an
 
 ## Installation
 
-[Horiseon website with applied revisions]()
+[Horiseon website with applied revisions](https://nicosbott.github.io/marketing-with-horiseon/)
 
 ## Usage
 
